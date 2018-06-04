@@ -11,4 +11,11 @@
     设置 MyEclipse 中项目编码和文件的默认编码方式:
 
 2. 注释
+
     每个 java 方法前都要添加注释, 说明: 方法完成什么功能, 接受什么参数, 返回什么类型
+
+3. 开发环境
+    JDK 7
+    MyEclipse 10
+    Tomcat 7.x
+    Oracle 11g/ mysql 5.7
